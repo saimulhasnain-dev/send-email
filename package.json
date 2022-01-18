@@ -1,0 +1,29 @@
+{
+  "name": "send-email",
+  "version": "1.0.0",
+  "description": "A node js program to send email using smtp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saimulhasnain-dev/send-email.git"
+  },
+  "keywords": [
+    "email",
+    "nodeemail",
+    "smtp",
+    "nodejs-email",
+    "nodemailer"
+  ],
+  "author": "Saimul hasnain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saimulhasnain-dev/send-email/issues"
+  },
+  "homepage": "https://github.com/saimulhasnain-dev/send-email#readme",
+  "dependencies": {
+    "nodemailer": "^6.7.2"
+  }
+}
